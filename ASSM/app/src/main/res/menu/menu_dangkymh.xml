@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/action_MHdaDK"
+    android:title="Môn học đã đăng ký"
+    android:icon="@mipmap/icon_info"
+
+    />
+<item
+    android:id="@+id/action_MHchuaDK"
+    android:title="Môn học chưa đăng ký"
+    android:icon="@mipmap/icon_info"
+    />
+    <item
+        android:id="@+id/action_allMH"
+        android:title="Tất cả môn học"
+        android:icon="@mipmap/icon_info"
+        />
+
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513191688326",
+    "project_id": "crypto-gradient-387108",
+    "storage_bucket": "crypto-gradient-387108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513191688326:android:837ffa494db089b9173907",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513191688326-to5ed5u0bt7itdqtbkaud5tgol3s7l4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assignment",
+            "certificate_hash": "8ac0cd7d405e7493b1b4acbe635a17a1301a0a22"
+          }
+        },
+        {
+          "client_id": "513191688326-0v55hsgaoolkidfro1f19l9k4hg8trt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPuKRT9WJeB7d-zNPExPhb5TxmfThqrcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513191688326-0v55hsgaoolkidfro1f19l9k4hg8trt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

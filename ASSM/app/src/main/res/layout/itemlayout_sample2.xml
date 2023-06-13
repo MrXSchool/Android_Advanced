@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="#FF80AB"
+    android:layout_margin="5dp"
+    >
+
+    <ImageView
+        android:id="@+id/imageView_sample2"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <!--
+        "title": "Quản lý trường mầm non bị tố bỏ đói, bạo hành trẻ",
+        "description": {
+          "__cdata": "<a href=\"https://vnexpress.net/quan-ly-truong-mam-non-bi-to-bo-doi-bao-hanh-tre-4518723.html\"><img src=\"https://i1-vnexpress.vnecdn.net/2022/10/03/-2774-1664795211.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lD4_qBW5VWLseAnb6riS8g\" ></a></br>Quản lý nhóm lớp tư thục Elm School được cho là đã kéo lê, đút cơm thô bạo, để trẻ chịu đói, khát."
+        },
+        "pubDate": "Tue, 04 Oct 2022 07:54:52 +0700",
+        "link": "https://vnexpress.net/quan-ly-truong-mam-non-bi-to-bo-doi-bao-hanh-tre-4518723.html",
+        "guid": "https://vnexpress.net/quan-ly-truong-mam-non-bi-to-bo-doi-bao-hanh-tre-4518723.html",
+        "comments": 0
+        -->
+        <TextView
+            android:id="@+id/textView_sample2_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView_sample2_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/textView_sample2_pubDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PubDate"
+            android:textSize="15sp" />
+
+<!--        <TextView-->
+<!--            android:id="@+id/textView_sample2_link"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Link"-->
+<!--            android:textSize="15sp" />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/textView_sample2_guid"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Guid"-->
+<!--            android:textSize="15sp" />-->
+
+        <TextView
+            android:id="@+id/textView_sample2_comments"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Comments"
+            android:textSize="15sp" />
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
